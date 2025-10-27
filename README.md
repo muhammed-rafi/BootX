@@ -24,7 +24,7 @@ It demonstrates key concepts like boot sector programming, kernel loading, and t
 ---
 
 ## 🗂️ Project Structure
-BootX/
+#BootX/
 ├── src/ # Source files (bootloader, kernel, etc.)
 ├── build/ # Compiled binaries and intermediate files
 ├── CMakeLists.txt # CMake build configuration
